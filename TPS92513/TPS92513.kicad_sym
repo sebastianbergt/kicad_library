@@ -1,5 +1,5 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "TPS92692PWP" (in_bom yes) (on_board yes)
+  (symbol "TPS92513HV" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -7.62 12.7 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
@@ -21,13 +21,13 @@
     (property "ki_fp_filters" "HTSSOP*1EP*4.4x6.5mm*P0.65mm*" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "TPS92692PWP_0_1"
+    (symbol "TPS92513HV_0_1"
       (rectangle (start -10.16 11.43) (end 10.16 -11.43)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "TPS92692PWP_1_1"
+    (symbol "TPS92513HV_1_1"
       (pin output line (at 12.7 7.62 180) (length 2.54)
         (name "BOOT" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
